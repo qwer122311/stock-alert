@@ -2,7 +2,7 @@ name: Stock Alert
 
 on:
   schedule:
-    - cron: "0 22 * * *"  # 한국시간 오전 10시
+    - cron: "0 1 * * *" # 한국시간 오전 10시
   workflow_dispatch:
 
 jobs:
