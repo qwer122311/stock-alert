@@ -83,5 +83,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-print("BOT_TOKEN:", BOT_TOKEN)
-print("CHAT_ID:", CHAT_ID)
